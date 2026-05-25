@@ -12,29 +12,6 @@ CEO of **[Onwebs](https://onwebs.ir)** — building scalable web solutions, host
 
 ---
 
-## 🏢 Current Roles
-
-| Organization | Role |
-|---|---|
-| 🌐 **[Onwebs](https://onwebs.ir)** | CEO |
-| 🏢 **CUATRO GROUP ASS** | Developer & Technical Manager — Infrastructure |
-| 🌊 **NANOMAR** | Infrastructure Developer & Technical Manager |
-| 🚀 **AVANOBAT** | Co-Founder |
-| 🏛️ **Bardaskan Municipality App** | Project Manager |
-
----
-
-## 📊 By the numbers
-
-```
- 87+ Projects delivered
-  5+ Years of experience
-  4  Organizations
-  ∞  Commits to quality
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -44,18 +21,6 @@ CEO of **[Onwebs](https://onwebs.ir)** — building scalable web solutions, host
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 🎯 Focus Areas
-
-```
-Panel Development      ████████████████████ 85%
-Hosting Infrastructure ████████████████▌    72%
-API / Backend          ████████████████     68%
-Mobile Apps (Flutter)  █████████████        55%
-Municipality Tech      ██████████           40%
-```
 
 ---
 
