@@ -1,0 +1,127 @@
+<svg width="680" height="500" viewBox="0 0 680 500" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Sepehr Fathi — GitHub profile card</title>
+  <desc>Profile card for Sepehr Fathi, Full-Stack Developer and Infrastructure Architect, CEO of Onwebs</desc>
+
+  <rect width="680" height="500" rx="16" fill="#0d1117"/>
+  <rect x="0" y="0" width="4" height="500" rx="2" fill="#1D9E75"/>
+
+  <!-- ── HEADER ── -->
+  <text x="40" y="48" font-family="'Segoe UI',system-ui,sans-serif" font-size="26" font-weight="700" fill="#e6edf3">Sepehr Fathi</text>
+  <text x="40" y="68" font-family="'Courier New',monospace" font-size="13" fill="#1D9E75">@sepehrfathi</text>
+  <text x="40" y="86" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#8b949e">Full-Stack Developer · Infrastructure Architect · Technical Manager</text>
+  <rect x="40" y="94" width="148" height="20" rx="10" fill="#1D9E75"/>
+  <text x="114" y="108" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="700" fill="#ffffff">⚡ Speed × Quality</text>
+
+  <line x1="40" y1="126" x2="640" y2="126" stroke="#21262d" stroke-width="1"/>
+
+  <!-- ── STATS ── -->
+  <text x="100" y="155" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="24" font-weight="800" fill="#e6edf3">87<tspan fill="#1D9E75" font-size="16">+</tspan></text>
+  <text x="100" y="170" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">projects</text>
+  <line x1="175" y1="138" x2="175" y2="175" stroke="#21262d" stroke-width="1"/>
+  <text x="250" y="155" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="24" font-weight="800" fill="#e6edf3">5<tspan fill="#1D9E75" font-size="16">+</tspan></text>
+  <text x="250" y="170" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">years exp</text>
+  <line x1="325" y1="138" x2="325" y2="175" stroke="#21262d" stroke-width="1"/>
+  <text x="400" y="155" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="24" font-weight="800" fill="#e6edf3">4</text>
+  <text x="400" y="170" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">orgs</text>
+  <line x1="475" y1="138" x2="475" y2="175" stroke="#21262d" stroke-width="1"/>
+  <text x="558" y="155" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="24" font-weight="800" fill="#e6edf3">∞</text>
+  <text x="558" y="170" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">commits to quality</text>
+
+  <line x1="40" y1="186" x2="640" y2="186" stroke="#21262d" stroke-width="1"/>
+
+  <!-- ── ORGANIZATIONS ── -->
+  <text x="40" y="205" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="1">ORGANIZATIONS</text>
+
+  <!-- Row 1: 3 orgs -->
+  <!-- Onwebs -->
+  <rect x="40" y="212" width="182" height="54" rx="6" fill="#0d1117" stroke="#1D9E75" stroke-width="0.5"/>
+  <rect x="40" y="212" width="4" height="54" rx="2" fill="#1D9E75"/>
+  <text x="53" y="228" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">Onwebs</text>
+  <text x="53" y="244" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#1D9E75">CEO</text>
+  <text x="53" y="259" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#8b949e">Web · Hosting · Infrastructure</text>
+
+  <!-- CUATRO GROUP -->
+  <rect x="232" y="212" width="208" height="54" rx="6" fill="#0d1117" stroke="#185FA5" stroke-width="0.5"/>
+  <rect x="232" y="212" width="4" height="54" rx="2" fill="#185FA5"/>
+  <text x="245" y="228" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">CUATRO GROUP ASS</text>
+  <text x="245" y="244" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#85B7EB">Dev &amp; Technical Manager</text>
+  <text x="245" y="259" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#8b949e">Infrastructure &amp; Systems</text>
+
+  <!-- NANOMAR -->
+  <rect x="450" y="212" width="190" height="54" rx="6" fill="#0d1117" stroke="#BA7517" stroke-width="0.5"/>
+  <rect x="450" y="212" width="4" height="54" rx="2" fill="#BA7517"/>
+  <text x="463" y="228" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">NANOMAR</text>
+  <text x="463" y="244" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#EF9F27">Infra Dev &amp; Tech Manager</text>
+  <text x="463" y="259" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#8b949e">Technical Lead</text>
+
+  <!-- Row 2: 2 orgs -->
+  <!-- AVANOBAT -->
+  <rect x="40" y="276" width="290" height="54" rx="6" fill="#0d1117" stroke="#534AB7" stroke-width="0.5"/>
+  <rect x="40" y="276" width="4" height="54" rx="2" fill="#534AB7"/>
+  <text x="53" y="292" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">AVANOBAT</text>
+  <text x="53" y="308" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#AFA9EC">Co-Founder</text>
+  <text x="53" y="323" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#8b949e">Product &amp; Technology</text>
+
+  <!-- Bardaskan Municipality -->
+  <rect x="340" y="276" width="300" height="54" rx="6" fill="#0d1117" stroke="#993C1D" stroke-width="0.5"/>
+  <rect x="340" y="276" width="4" height="54" rx="2" fill="#993C1D"/>
+  <text x="353" y="292" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">Bardaskan Municipality</text>
+  <text x="353" y="308" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#F0997B">Project Manager</text>
+  <text x="353" y="323" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#8b949e">App Development</text>
+
+  <line x1="40" y1="344" x2="640" y2="344" stroke="#21262d" stroke-width="1"/>
+
+  <!-- ── TECH STACK ── -->
+  <text x="40" y="363" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="1">TECH STACK</text>
+
+  <rect x="40" y="370" width="42" height="20" rx="4" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="0.5"/>
+  <text x="61" y="384" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" font-weight="600" fill="#3C3489">PHP</text>
+  <rect x="88" y="370" width="32" height="20" rx="4" fill="#FAEEDA" stroke="#FAC775" stroke-width="0.5"/>
+  <text x="104" y="384" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" font-weight="600" fill="#633806">JS</text>
+  <rect x="126" y="370" width="52" height="20" rx="4" fill="#E6F1FB" stroke="#85B7EB" stroke-width="0.5"/>
+  <text x="152" y="384" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" font-weight="600" fill="#0C447C">Flutter</text>
+  <rect x="184" y="370" width="68" height="20" rx="4" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+  <text x="218" y="384" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" font-weight="600" fill="#712B13">HTML/CSS</text>
+  <rect x="258" y="370" width="52" height="20" rx="4" fill="#E1F5EE" stroke="#5DCAA5" stroke-width="0.5"/>
+  <text x="284" y="384" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" font-weight="600" fill="#085041">MySQL</text>
+  <rect x="316" y="370" width="48" height="20" rx="4" fill="#EAF3DE" stroke="#97C459" stroke-width="0.5"/>
+  <text x="340" y="384" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" font-weight="600" fill="#27500A">Linux</text>
+
+  <line x1="40" y1="404" x2="640" y2="404" stroke="#21262d" stroke-width="1"/>
+
+  <!-- ── FOCUS BARS + LINKS side by side ── -->
+  <text x="40" y="422" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="1">FOCUS AREAS</text>
+  <text x="420" y="422" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="1">LINKS</text>
+
+  <text x="128" y="438" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">Panel Dev</text>
+  <rect x="134" y="429" width="168" height="8" rx="4" fill="#21262d"/>
+  <rect x="134" y="429" width="143" height="8" rx="4" fill="#1D9E75"/>
+  <text x="308" y="438" font-family="'Courier New',monospace" font-size="10" fill="#1D9E75">85%</text>
+
+  <text x="420" y="438" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#8b949e">🌍</text>
+  <text x="438" y="438" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1D9E75">sep.onwebs.ir</text>
+
+  <text x="128" y="453" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">Hosting Infra</text>
+  <rect x="134" y="444" width="168" height="8" rx="4" fill="#21262d"/>
+  <rect x="134" y="444" width="121" height="8" rx="4" fill="#185FA5"/>
+  <text x="308" y="453" font-family="'Courier New',monospace" font-size="10" fill="#85B7EB">72%</text>
+
+  <text x="420" y="453" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#8b949e">🐙</text>
+  <text x="438" y="453" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1D9E75">github.com/sepehrfathi</text>
+
+  <text x="128" y="468" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">API / Backend</text>
+  <rect x="134" y="459" width="168" height="8" rx="4" fill="#21262d"/>
+  <rect x="134" y="459" width="114" height="8" rx="4" fill="#BA7517"/>
+  <text x="308" y="468" font-family="'Courier New',monospace" font-size="10" fill="#EF9F27">68%</text>
+
+  <text x="420" y="468" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#8b949e">💼</text>
+  <text x="438" y="468" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1D9E75">in/sepehr-fathi</text>
+
+  <text x="128" y="484" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">Mobile Apps</text>
+  <rect x="134" y="475" width="168" height="8" rx="4" fill="#21262d"/>
+  <rect x="134" y="475" width="92" height="8" rx="4" fill="#534AB7"/>
+  <text x="308" y="484" font-family="'Courier New',monospace" font-size="10" fill="#AFA9EC">55%</text>
+
+  <text x="420" y="484" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#8b949e">📬</text>
+  <text x="438" y="484" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1D9E75">ceo@onwebs.ir</text>
+</svg>
